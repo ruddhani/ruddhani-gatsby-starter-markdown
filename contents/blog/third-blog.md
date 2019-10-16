@@ -3,10 +3,10 @@ title: Thrid blog
 date: 1571217011
 date: 1571217011
 title: Thrid blog
-rootPage: Array
-sidebar: Array
-hideAnchor: Array
-showTitle: Array
+rootPage: /blog
+sidebar: Blog
+hideAnchor: 1
+showTitle: 1
 ---
 
 [Third blog][1]
