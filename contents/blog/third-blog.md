@@ -1,6 +1,4 @@
 ---
-uri: /third-blog
-type: page
 title: Thrid blog
 date: 1571217011
 date: 1571217011
