@@ -5,9 +5,9 @@ title: Thrid blog
 date: 1571217011
 date: 1571217011
 title: Thrid blog
-rootPage: 1571217011
-sidebar: 1571217011
-hideAnchor: 1571217011
+rootPage: Array
+sidebar: Array
+hideAnchor: Array
 ---
 
 [Third blog][1]
