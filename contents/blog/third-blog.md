@@ -1,7 +1,6 @@
 ---
 title: Thrid blog
 date: 1571217011
-date: 1571217011
 title: Thrid blog
 rootPage: /blog
 sidebar: Blog
