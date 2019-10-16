@@ -6,6 +6,7 @@ title: Thrid blog
 rootPage: Array
 sidebar: Array
 hideAnchor: Array
+showTitle: Array
 ---
 
 [Third blog][1]
