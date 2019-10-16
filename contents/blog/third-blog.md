@@ -5,8 +5,8 @@ date: 1571217011
 title: Thrid blog
 rootPage: /blog
 sidebar: Blog
-hideAnchor: 1
-showTitle: 1
+hideAnchor: true
+showTitle: true
 ---
 
 [Third blog][1]
