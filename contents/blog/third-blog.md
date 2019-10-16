@@ -1,5 +1,5 @@
 ---
-date: 1571217011
+date: 2019-10-16
 title: Thrid blog
 rootPage: /blog
 sidebar: Blog
